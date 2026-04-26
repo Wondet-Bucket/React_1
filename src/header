@@ -1,0 +1,14 @@
+ <div className='row'  style={{paddingTop:15}}>
+          <div className='row'>
+            <button style={{paddingRight:24, paddingLeft:24}}><img src="src/assets/header/left_btns/TechStore.png"></img></button>
+            <div className='navigation_buttons'>
+            <button><img src="src\assets\header\left_btns\Button (2).png"></img></button>
+            <button><img src="src\assets\header\left_btns\Button (3).png"></img></button>
+            <button><img src="src\assets\header\left_btns\Button (4).png"></img></button>
+            </div>
+          </div>
+          <div>
+            <button><img src="src/assets/header/rigth_btns/Button.png" ></img></button>
+            <button><img src="src\assets\header\rigth_btns\Button (1).png"></img></button>
+          </div>
+          </div>
