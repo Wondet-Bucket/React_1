@@ -4,6 +4,25 @@
   align-items: center;
 }
 
+.plus_minus
+{
+  display: flex;
+  flex-direction: row;
+  font-size: large;
+
+}
+.add_to_card
+{
+  height: 50px;
+  width: 100%;
+  background-color: black;
+  display: inline-block;
+  text-align: center;
+  font-size: larger;
+  font-family: Arial;
+  font-weight: bold;
+  border-radius: 10px;
+}
 .prod_map
 {
   display: flex;
